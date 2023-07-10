@@ -46,7 +46,9 @@ _testmain.go
 
 #Personal
 
-src/testbinaries
-src/tests_random
-src/nuru
+testbinaries/
+tests_random/
+nuru
 Notes.md
+tutorials/en/*
+config.json
